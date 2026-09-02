@@ -9,11 +9,11 @@ copyright: Copyright &copy; 2025 - 2026 Infinity Roleplay
 
 # Congiguration
 theme:
-  name: cinder
+  name: material
   palette:
     - scheme: slate
-      primary: "red"
-      accent: "red"
+      primary: "blue"
+      accent: "blue"
   favicon: img/favicon.png
   logo: img/logo.png
   language: nl
